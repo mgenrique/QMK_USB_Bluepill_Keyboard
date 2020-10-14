@@ -44,7 +44,7 @@ confirmar la ubicación de la carpeta `\qmk_firmware`
 Reemplazar la carpeta qmk_firmware, generalmente creada en `c:\users\<usuario>\qmk_firmware` por la que obtenemos de la siguiente instruccion
 > git clone --recursive https://github.com/qmk/qmk_firmware.git
 
-Esto ultimo es necesario para que compile para chibiOS. De nuevo
+Esto ultimo es necesario para que compile para chibiOS (instala los submodulos especificados en qmk_firmware/.gitmodules) De nuevo
 >qmk setup
 y confirmar una vez más la ubicación de la carpeta `\qmk_firmware`
 
