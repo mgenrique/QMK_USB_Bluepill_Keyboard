@@ -14,6 +14,7 @@ En el cado del AMILO PI2550 hay muchas combinaciones que no representan teclas l
 
 ## Referencias:
 Based on the [KC64 of Xydane](https://github.com/Xydane/qmk_firmware) and [FPazos](https://github.com/fpazos)
+No lo he chequeado pero este proyecto parece que podria ser algo similar pero basado en TMK: https://github.com/flabbergast/tmk_keyboard
 
 # Configuración del entorno para compilar teclados QMK
 Seguir las instrucciones en https://docs.qmk.fm/#/getting_started_build_tools para configurar el entorno.
