@@ -20,6 +20,8 @@ No lo he chequeado, si bien este proyecto parece que podria ser algo similar aun
 ## Teclado Fujitsu Siemens AMILO PI 2550 Spanish
 <script src="https://gist.github.com/mgenrique/21b95c045d56044a23c9a327a107e557.js"></script>
 
+![Alt text](./amilo_pi2550_es-thumb.png?raw=true "Title")
+
 # Configuración del entorno para compilar teclados QMK
 Seguir las instrucciones en https://docs.qmk.fm/#/getting_started_build_tools para configurar el entorno.
 
