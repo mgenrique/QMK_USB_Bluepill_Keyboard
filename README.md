@@ -1,4 +1,7 @@
 # QMK USB HID Bluepill AMILO PI2550.
+
+WORK IN PROGRESS !!!
+
 ## Objetivo: Convertir teclado de AMILO PI 2550 en teclado USB HID con Bluepill(STM32F103C8).
 A continuación detallo los pasos que he seguido utilizando el proyecto QMK(https://docs.qmk.fm/) para que un teclado de un ordenador portatil Fujitsu-Siemens AMILO PI2550 con distribución en español se pueda usar como teclado USB HID.
 A pesar de existir un proyecto que ya cubre esta necesidad https://github.com/thedalles77/USB_Laptop_Keyboard_Controller se basa en la utilización de las placas Teensy.
