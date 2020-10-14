@@ -225,7 +225,4 @@ De tal forma que si activo la fila 0 y veo un valor activo en col 0 querrá de c
 Para determinar esta matriz ver .xls. Esta tabla se ha determinado con el programa arduino C:\Users\Enrique\qmk_firmware\keyboards\handwired\bluepill_emg\Utilidades EMG\Matrix_Decoder_STM32F103C8
 
 
-![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
-
-./#/old
 
