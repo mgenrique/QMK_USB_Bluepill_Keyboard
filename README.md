@@ -18,7 +18,7 @@ Based on the [KC64 of Xydane](https://github.com/Xydane/qmk_firmware) and [FPazo
 No lo he chequeado, si bien este proyecto parece que podria ser algo similar aunque basado en TMK: https://github.com/flabbergast/tmk_keyboard
 
 ## Teclado Fujitsu Siemens AMILO PI 2550 Spanish
-<script src="https://gist.github.com/mgenrique/21b95c045d56044a23c9a327a107e557.js"></script>
+http://www.keyboard-layout-editor.com/#/gists/21b95c045d56044a23c9a327a107e557
 
 ![Alt text](./amilo_pi2550_es.png?raw=true "Title")
 
